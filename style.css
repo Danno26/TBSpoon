@@ -12,11 +12,11 @@
     list-style: none;
     text-decoration: none;
     scroll-behavior: smooth;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Vibes', cursive;
 }
 
 :root {
-    --main-color: #16b877;
+    --main-color: #4f5050;
     --second-color: #131414;
 }
 
@@ -70,8 +70,8 @@ header.active .navbar a {
 .logo img {
     height: auto;
     width: auto;
-    max-height: 85px;
-    max-width: 275px;
+    max-height: 50px;
+    max-width: 225px;
     /* whatever the fixed height of the bar is */
     vertical-align: middle;
 }
